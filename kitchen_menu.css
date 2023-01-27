@@ -1,0 +1,31 @@
+.k_items{
+	width:40%;
+	height:30px;
+	padding:20px;
+	display:inline-block;
+}
+
+.k_items_title{
+	font-size;35px;
+	color;brown:
+	text-align:center;
+	padding:10px;
+	border-radius:20px;
+}
+
+.k_items img {
+	width:80%;
+	
+}
+
+.k_items button {
+	color:black;
+    padding:10px;
+	width:50%;
+	background-color:white;
+	border-bottom-style:solid;
+	border-bottom-color:brown;
+	border-bottom-width:2px;
+	border-radius:15px;
+	
+}
